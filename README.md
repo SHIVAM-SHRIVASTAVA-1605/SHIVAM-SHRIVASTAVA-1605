@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHIVAM-SHRIVASTAVA-1605
+- 👋 Hi, I’m @SHIVAM-1605
 - 👀 I’m interested in coding, web development, and learning new tech things.
 - 🌱 I’m currently learning web development , coding.
 - 💞️ I’m looking to collaborate on web development or any program related to PYTHON & C language.
