@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter development.<br>👯 I’m looking to collaborate on any flutter related project.<br>🤝 I’m looking for help with backend development whether it is with node.js or django.<br>🌱 I’m currently learning js and python frameworks for backend development.<br>💬 Ask me about any thing get in touch with me through my mail -> shivam091204@gmail.com<br>⚡ Fun fact👋-> I'm also interested in cyber security and I opted for it in as my cohorts in my journey.
+🔭 I’m currently working on flutter development.<br>👯 I’m looking to collaborate on any flutter related project.<br>🤝 I’m looking for help with backend development whether it is with node.js or django.<br>🌱 I’m currently learning js and python frameworks for backend development.<br>💬 Ask me about any thing get in touch with me through my mail -> shivam091204@gmail.com<br>⚡ Fun fact👋-> I'm also interested in cyber security and I opted for it as my cohorts in my journey.
 
 
 ## 🌐 Socials:
